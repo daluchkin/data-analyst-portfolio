@@ -83,6 +83,6 @@ This section highlights the certifications I have obtained through various cours
 
 Feel free to reach out to me via email or LinkedIn for any inquiries or collaborations.
 
-+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> [@dmitry-luchkin](https://www.linkedin.com/in/dmitry-luchkin/)
++ LinkedIn: [@dmitry-luchkin](https://www.linkedin.com/in/dmitry-luchkin/)
 + E-mail: [daluchki@gmail.com](mailto:daluchki@gmail.com)
 
