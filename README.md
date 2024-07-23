@@ -18,7 +18,7 @@ Data Analyst
 ## Projects <a name='my_projects'></a>
 
 
-### [ales Analysis Of Superstore Global](https://github.com/daluchkin/superstore-global-sales-analysis)
+### [Sales Analysis Of Superstore Global](https://github.com/daluchkin/superstore-global-sales-analysis)
 _November 2023_ \
 The [Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-superstore) contains data of transactions, each row represents transaction item of products sold around the world by Superstore, also contains a customer information, shipping and product returns. The project includes the followong steps: loading data, data claensing, report generation ([go to report...](https://daluchkin.github.io/superstore-global-sales-analysis/)).
 
