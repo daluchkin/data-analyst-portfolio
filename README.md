@@ -19,17 +19,14 @@ Data Analyst
 <details>
   <summary>Table of Contents</summary>
 
-  ### [About](#about)
-
-  ### [Projects <a name='my_projects'></a>](#projects)
-      + [Sales Analysis Of Superstore Global](#sales-analysis-of-superstore-global)
-      + [Sales Analysis Of Superstore US](#sales-analysis-of-superstore-us)
-      + [Sales Data Analysis - Superstore EU](#sales-data-analysis-superstore-eu)
-      + [Tableau Public](#tableau-public)
-
-  ### [Certificates <a name='my_certificates'></a>](#certificates)
-
-  ### [Contacts <a name='my_contacts'></a>](#contacts)
+  - [About](#about)
+  - [Projects <a name='my_projects'></a>](#projects)
+    - [Sales Analysis Of Superstore Global](#sales-analysis-of-superstore-global)
+    - [Sales Analysis Of Superstore US](#sales-analysis-of-superstore-us)
+    - [Sales Data Analysis - Superstore EU](#sales-data-analysis-superstore-eu)
+    - [Tableau Public](#tableau-public)
+  - [Certificates <a name='my_certificates'></a>](#certificates)
+  - [Contacts <a name='my_contacts'></a>](#contacts)
 
 </details>
 
