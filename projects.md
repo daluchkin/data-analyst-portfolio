@@ -1,9 +1,9 @@
 Dmitry Luchkin: Data Analyst Portfolio
 
 [Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | 
-[Projects](https://github.com/daluchkin/data-analyst-portfolio#my_projects) | 
-[Certificates](https://github.com/daluchkin/data-analyst-portfolio#my_certificates) | 
-[Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+[Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+
+---
 
 # Projects
 
@@ -60,7 +60,7 @@ My Tableau Public profile.
 
 [Tableau Vizzes >>](https://public.tableau.com/app/profile/dmitry.luchkin/vizzes)
 
+---
 
-[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | [Projects](https://github.com/daluchkin/data-analyst-portfolio#my_projects) | 
-[Certificates](https://github.com/daluchkin/data-analyst-portfolio#my_certificates) | 
-[Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | 
+[Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)

@@ -1,6 +1,9 @@
 Dmitry Luchkin: Data Analyst Portfolio
 
-[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | [Projects](https://github.com/daluchkin/data-analyst-portfolio#my_projects) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio#my_certificates) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | 
+[Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+
+---
 
 # Certificates
 
@@ -24,4 +27,7 @@ This section highlights the certifications I have obtained through various cours
 | [Tableau Professional](https://stepik.org/cert/1930951?lang=en)                                                                      | Stepik         | JAN 2023   |
 
 
-[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | [Projects](https://github.com/daluchkin/data-analyst-portfolio#my_projects) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio#my_certificates) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
+---
+
+[Portfolio](https://github.com/daluchkin/data-analyst-portfolio) | 
+[Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
