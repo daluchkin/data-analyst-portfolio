@@ -24,7 +24,7 @@ and providing clear insights into my methodologies and findings.
 </details>
 
 <a name="sales-analysis-of-superstore-global"></a>
-## [Sales Analysis Of Superstore Global](https://github.com/daluchkin/superstore-global-sales-analysis)
+## [Sales Analysis Of Superstore Global](https://github.com/daluchkin/data-analyst-portfolio/tree/main/03_Superstore_Global)
 *November 2023*\
 The [Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-superstore) contains data of transactions, each row represents transaction item of products sold around the world by Superstore, also contains a customer information, shipping and product returns. The project includes the followong steps: loading data, data claensing, report generation ([go to report...](https://daluchkin.github.io/superstore-global-sales-analysis/)).
 
@@ -34,7 +34,7 @@ The [Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-
 
 
 <a name="sales-analysis-of-superstore-us"></a>
-## [Sales Analysis Of Superstore US](https://github.com/daluchkin/superstore-us-sales-analysis) 
+## [Sales Analysis Of Superstore US](https://github.com/daluchkin/data-analyst-portfolio/tree/main/02_Superstore_US) 
 *August2023*\
 The dataset contains comprehensive information on sales, profits, and customer behavior in The United States retail chain. The project includes the followong steps: loading data, data claensing, exploratory data analysis, report generation ([go to report...](https://daluchkin.github.io/superstore-us-sales-analysis/)).
 
@@ -44,7 +44,7 @@ The dataset contains comprehensive information on sales, profits, and customer b
 
 
 <a name="sales-data-analysis-superstore-eu"></a>
-## [Sales Data Analysis - Superstore EU](https://github.com/daluchkin/superstore-eu-sales-analysis)
+## [Sales Data Analysis - Superstore EU](https://github.com/daluchkin/data-analyst-portfolio/tree/main/01_Superstore_EU)
 *August 2023*\
 The dataset contains comprehensive information on sales, profits, and customer behavior in a European retail chain. The dashboard was developed with MS Excel and Microsoft Power Pivot for Excel COM Add-in.
 
