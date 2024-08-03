@@ -16,6 +16,10 @@ __Tools:__
 Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, data cleaning, data wrangling, data visualization, model building, model evaluation.
 
 
+![linear regression plot](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/00_figures/actual_vs_fitted_training.png)
+
+![coefficient inportance](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/00_figures/coef_importance.png)
+
 [Portfolio](https://github.com/daluchkin/data-analyst-portfolio) |  [Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | [Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md) | [Contacts](https://github.com/daluchkin/data-analyst-portfolio#my_contacts)
 
 
