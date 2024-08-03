@@ -31,8 +31,8 @@ The [Car4U dataset](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contain
 
 **Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, data cleaning, data wrangling, data visualization, model building, model evaluation.
 
-[Project Report >>](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/Car4u_Project_Report.pdf)
-[Presentation >>](https://github.com/daluchkin/car4u_car_price_prediction/blame/main/04_reports/Car4u_presentation.pdf)
+[Project Report](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/Car4u_Project_Report.pdf) | 
+[Presentation](https://github.com/daluchkin/car4u_car_price_prediction/blame/main/04_reports/Car4u_presentation.pdf) | 
 [Repository >>](https://github.com/daluchkin/superstore-global-sales-analysis)
 
 
