@@ -25,7 +25,7 @@ and providing clear insights into my methodologies and findings.
 </details>
 
 <a name="car4u-car-price-prediction"></a>
-## [Cars4u: Car Price Prediction](https://github.com/daluchkin/car4u_car_price_prediction)
+## [Cars4u: Car Price Prediction](https://github.com/daluchkin/data-analyst-portfolio/blob/main/04_Car4u_car_price_prediction)
 *August 2024*\
 The [Car4U dataset](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contains data of information about used cars. The Car4u project aimed to build a predictive model for estimating the price of used cars based on various features. This project involved analyzing historical data to identify key factors influencing car prices and developing models to predict these prices accurately.
 
