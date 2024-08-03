@@ -33,7 +33,7 @@ The [Car4U dataset](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contain
 
 [Project Report](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/Car4u_Project_Report.pdf) | 
 [Presentation](https://github.com/daluchkin/car4u_car_price_prediction/blame/main/04_reports/Car4u_presentation.pdf) | 
-[Repository >>](https://github.com/daluchkin/superstore-global-sales-analysis)
+[Repository >>](https://github.com/daluchkin/car4u_car_price_prediction)
 
 
 <a name="sales-analysis-of-superstore-global"></a>
