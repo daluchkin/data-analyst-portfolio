@@ -16,12 +16,25 @@ and providing clear insights into my methodologies and findings.
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Cars4u: Car Price Prediction](#car4u-car-price-prediction)
   - [Sales Analysis Of Superstore Global](#sales-analysis-of-superstore-global)
   - [Sales Analysis Of Superstore US](#sales-analysis-of-superstore-us)
   - [Sales Data Analysis - Superstore EU](#sales-data-analysis-superstore-eu)
   - [Tableau Public](#tableau-public)
 
 </details>
+
+<a name="car4u-car-price-prediction"></a>
+## [Cars4u: Car Price Prediction](https://github.com/daluchkin/car4u_car_price_prediction)
+*August 2024*\
+The [Car4U dataset](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contains data of information about used cars. The Car4u project aimed to build a predictive model for estimating the price of used cars based on various features. This project involved analyzing historical data to identify key factors influencing car prices and developing models to predict these prices accurately.
+
+**Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, data cleaning, data wrangling, data visualization, model building, model evaluation.
+
+[Project Report >>](https://github.com/daluchkin/car4u_car_price_prediction/blob/main/04_reports/Car4u_Project_Report.pdf)
+[Presentation >>](https://github.com/daluchkin/car4u_car_price_prediction/blame/main/04_reports/Car4u_presentation.pdf)
+[Repository >>](https://github.com/daluchkin/superstore-global-sales-analysis)
+
 
 <a name="sales-analysis-of-superstore-global"></a>
 ## [Sales Analysis Of Superstore Global](https://github.com/daluchkin/data-analyst-portfolio/tree/main/03_Superstore_Global)
