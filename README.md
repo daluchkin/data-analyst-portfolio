@@ -11,10 +11,28 @@ Join me on this journey of exploration and discovery!
 Dmitry Luchkin \
 Data Analyst
 
+## Studying Projects
 
-[Request CV](mailto:daluchki@gmail.com?subject=Exploring%20Collaboration%20Opportunities%20-%20Request%20for%20Your%20CV&body=%20Hi%2C%0A%0AI%20hope%20this%20message%20finds%20you%20well.%0A%0AMy%20name%20is%20%5BYour%20Name%5D%2C%20and%20I%20recently%20came%20across%20your%20portfolio%20in%20data%20analysis.%20I%20am%20excited%20about%20the%20potential%20of%20collaborating%20with%20you%20on%20future%20projects.%20To%20explore%20this%20opportunity%20further%2C%20I%20would%20greatly%20appreciate%20it%20if%20you%20could%20share%20your%20CV%20with%20me.%0A%0ABest%20regards%2C%0A%5BYour%20Name%5D) | 
-[Projects](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md) | 
-[Certificates](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md)
+In this section, you'll find links to my GitHub repositories, where I share studying projects developed during online courses or while exploring data and experimenting with different programming and analytical techniques.
+
+
+[Studying projects >>](https://github.com/daluchkin/data-analyst-portfolio/blob/main/studying.md)
+
+
+## Portfolio Projects
+
+In this section of my portfolio, you'll find a collection of data analysis projects that demonstrate my expertise in data cleaning, visualization, statistical analysis, and machine learning. Each project is meticulously organized into stages, showcasing my analytical approach and providing clear insights into my methodologies and findings.
+
+
+[Portfolio Projects >>](https://github.com/daluchkin/data-analyst-portfolio/blob/main/projects.md)
+
+
+## Certificates
+
+This section highlights the certifications I have obtained through various courses, showcasing my commitment to professional growth. It also reflects my dedication to continuously enhancing my knowledge and skills through self-development. Here, you will find details of the courses I've completed and the certifications I've earned, demonstrating my proactive approach to staying current in the field of data analysis.
+
+
+[Certificates >>](https://github.com/daluchkin/data-analyst-portfolio/blob/main/certificates.md)
 
 
 ## Contacts 
