@@ -19,7 +19,7 @@ In this section, you'll find links to my GitHub repositories, where I share stud
 
 <a name="ml_udemy"></a>
 ## [Machine Learning A-Z: AI, Python & R](https://github.com/daluchkin/machine_learning_course)
-*February 2025*\
+*February 2025*
 
 This Machine Learning course provides a structured journey from fundamental concepts to advanced techniques, equipping me with essential data science and AI skills. Designed by experienced Data Scientists, the course simplifies complex theories, algorithms, and programming frameworks, making them accessible through hands-on practice.
 
