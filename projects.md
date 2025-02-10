@@ -16,6 +16,7 @@ and providing clear insights into my methodologies and findings.
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Medical Insurance Cost Prediction](#medical-insurance-cost)
   - [Cars4u: Car Price Prediction](#car4u-car-price-prediction)
   - [Sales Analysis Of Superstore Global](#sales-analysis-of-superstore-global)
   - [Sales Analysis Of Superstore US](#sales-analysis-of-superstore-us)
@@ -23,6 +24,15 @@ and providing clear insights into my methodologies and findings.
   - [Tableau Public](#tableau-public)
 
 </details>
+
+<a name="medical-insurance-cost"></a>
+## [Medical Insurance Cost Prediction](https://github.com/daluchkin/medical_insurance_cost)
+*February 2025*\
+The project aims to determine the best regression model for predicting medical insurance costs based on various factors such as age, BMI, smoking status, and region. The dataset contains numerical and categorical variables, requiring appropriate preprocessing techniques before model training.
+
+**Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, data cleaning, data wrangling, data visualization, model building, model evaluation.
+
+[Repository >>](https://github.com/daluchkin/medical_insurance_cost)
 
 <a name="car4u-car-price-prediction"></a>
 ## [Cars4u: Car Price Prediction](https://github.com/daluchkin/data-analyst-portfolio/blob/main/04_Car4u_car_price_prediction)
