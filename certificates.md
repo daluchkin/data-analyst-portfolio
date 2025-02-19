@@ -11,8 +11,7 @@ This section highlights the certifications I have obtained through various cours
 
 | Certificate                                                                                                                          | Organization   | Issue Date |
 |-------------------|----------------------------------|-------------------|
-| [Machine Learning A-Z: AI, Python & R 2025](https://www.udemy.com/certificate/UC-293e3526-6d5e-45f6-8a64-3a82df4d37b9/)            | Udemy       
-   | FEB 2025   | 
+| [Machine Learning A-Z: AI, Python & R 2025](https://www.udemy.com/certificate/UC-293e3526-6d5e-45f6-8a64-3a82df4d37b9/)            | Udemy   | FEB 2025   | 
 | [Statistics Fundamentals by Bioinformatics Institute. Part III](https://stepik.org/cert/2445568?lang=en)                             | Stepik         | APR 2024   |
 | [Docker](https://www.udemy.com/certificate/UC-fb3ab476-c01b-478c-b364-93e0c3c88929/)                                                 | Udemy          | DEC 2023   |
 | [Tableau Desktop for Data Analysis & Data Visualization](https://www.udemy.com/certificate/UC-91aaa700-04db-4261-9662-fb64c741d2de/) | Udemy          | NOV 2023   |
