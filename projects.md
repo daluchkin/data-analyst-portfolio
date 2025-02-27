@@ -29,7 +29,7 @@ and providing clear insights into my methodologies and findings.
 ---
 
 <a name="mushroom-classifier"></a>
-## [Mushroom Classifier](https://github.com/daluchkin/mushrooms_classifier)
+## [Mushroom Classifier](https://github.com/daluchkin/data-analyst-portfolio/tree/main/06_Mushroom_Classifier)
 *February 2025*\
 The primary goal of this project is to build a robust mushroom classification model that can accurately distinguish between edible and poisonous mushrooms based on their physical attributes.
 
@@ -40,7 +40,7 @@ The primary goal of this project is to build a robust mushroom classification mo
 ---
 
 <a name="medical-insurance-cost"></a>
-## [Medical Insurance Cost Prediction](https://github.com/daluchkin/medical_insurance_cost)
+## [Medical Insurance Cost Prediction](https://github.com/daluchkin/data-analyst-portfolio/tree/main/05_Medical_Insurance_Cost)
 *February 2025*\
 The project aims to determine the best regression model for predicting medical insurance costs based on various factors such as age, BMI, smoking status, and region. The dataset contains numerical and categorical variables, requiring appropriate preprocessing techniques before model training.
 
