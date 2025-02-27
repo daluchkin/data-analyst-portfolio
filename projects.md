@@ -16,6 +16,7 @@ and providing clear insights into my methodologies and findings.
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Mushrooms Classifier](#mushroon-classifier)
   - [Medical Insurance Cost Prediction](#medical-insurance-cost)
   - [Cars4u: Car Price Prediction](#car4u-car-price-prediction)
   - [Sales Analysis Of Superstore Global](#sales-analysis-of-superstore-global)
@@ -25,6 +26,19 @@ and providing clear insights into my methodologies and findings.
 
 </details>
 
+---
+
+<a name="mushroom-classifier"></a>
+## [Mushroom Classifier](https://github.com/daluchkin/mushrooms_classifier)
+*February 2025*\
+The primary goal of this project is to build a robust mushroom classification model that can accurately distinguish between edible and poisonous mushrooms based on their physical attributes.
+
+**Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, data cleaning, data wrangling, data visualization, model building, model evaluation.
+
+[Repository >>](https://github.com/daluchkin/mushrooms_classifier)
+
+---
+
 <a name="medical-insurance-cost"></a>
 ## [Medical Insurance Cost Prediction](https://github.com/daluchkin/medical_insurance_cost)
 *February 2025*\
@@ -33,6 +47,8 @@ The project aims to determine the best regression model for predicting medical i
 **Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, data cleaning, data wrangling, data visualization, model building, model evaluation.
 
 [Repository >>](https://github.com/daluchkin/medical_insurance_cost)
+
+---
 
 <a name="car4u-car-price-prediction"></a>
 ## [Cars4u: Car Price Prediction](https://github.com/daluchkin/data-analyst-portfolio/blob/main/04_Car4u_car_price_prediction)
@@ -45,6 +61,7 @@ The [Car4U dataset](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contain
 [Presentation](https://github.com/daluchkin/car4u_car_price_prediction/blame/main/04_reports/Car4u_presentation.pdf) | 
 [Repository >>](https://github.com/daluchkin/car4u_car_price_prediction)
 
+---
 
 <a name="sales-analysis-of-superstore-global"></a>
 ## [Sales Analysis Of Superstore Global](https://github.com/daluchkin/data-analyst-portfolio/tree/main/03_Superstore_Global)
@@ -55,6 +72,7 @@ The [Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-
 
 [Repository >>](https://github.com/daluchkin/superstore-global-sales-analysis)
 
+---
 
 <a name="sales-analysis-of-superstore-us"></a>
 ## [Sales Analysis Of Superstore US](https://github.com/daluchkin/data-analyst-portfolio/tree/main/02_Superstore_US) 
@@ -65,6 +83,7 @@ The dataset contains comprehensive information on sales, profits, and customer b
 
 [Repository >>](https://github.com/daluchkin/superstore-us-sales-analysis)
 
+---
 
 <a name="sales-data-analysis-superstore-eu"></a>
 ## [Sales Data Analysis - Superstore EU](https://github.com/daluchkin/data-analyst-portfolio/tree/main/01_Superstore_EU)
@@ -75,6 +94,7 @@ The dataset contains comprehensive information on sales, profits, and customer b
 
 [Repository >>](https://github.com/daluchkin/superstore-eu-sales-analysis)
 
+---
 
 <a name="tableau-public"></a>
 ## Tableau Public
