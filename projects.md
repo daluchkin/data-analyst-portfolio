@@ -30,7 +30,7 @@ and providing clear insights into my methodologies and findings.
 ---
 
 <a name="emotions-detector"></a>
-## [Human Facial Emotions Detection]((https://github.com/daluchkin/data-analyst-portfolio/tree/main/07_Human_Facial_Emotions_Detection))
+## [Human Facial Emotions Detection](https://github.com/daluchkin/data-analyst-portfolio/tree/main/07_Human_Facial_Emotions_Detection)
 *February 2025*\
 This project focuses on detecting emotions from facial images using a Convolutional Neural Network (CNN). The model is trained on labeled facial expressions to classify emotions such as happiness, sadness, anger, surprise, and more. This can be applied in various domains, including human-computer interaction, sentiment analysis, and mental health monitoring.
 
