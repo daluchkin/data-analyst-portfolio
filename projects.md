@@ -16,6 +16,7 @@ and providing clear insights into my methodologies and findings.
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Human Facial Emotions Detection](#emotions-detector)
   - [Mushrooms Classifier](#mushroon-classifier)
   - [Medical Insurance Cost Prediction](#medical-insurance-cost)
   - [Cars4u: Car Price Prediction](#car4u-car-price-prediction)
@@ -25,6 +26,17 @@ and providing clear insights into my methodologies and findings.
   - [Tableau Public](#tableau-public)
 
 </details>
+
+---
+
+<a name="emotions-detector"></a>
+## [Human Facial Emotions Detection]((https://github.com/daluchkin/data-analyst-portfolio/tree/main/07_Human_Facial_Emotions_Detection))
+*February 2025*\
+This project focuses on detecting emotions from facial images using a Convolutional Neural Network (CNN). The model is trained on labeled facial expressions to classify emotions such as happiness, sadness, anger, surprise, and more. This can be applied in various domains, including human-computer interaction, sentiment analysis, and mental health monitoring.
+
+**Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras, data visualization, model building, model evaluation.
+
+[Repository >>](https://github.com/daluchkin/human_facial_emotions_detection)
 
 ---
 
