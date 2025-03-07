@@ -13,9 +13,28 @@ In this section, you'll find links to my GitHub repositories, where I share stud
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Deep Learning A-Z 2025: Neural Networks, AI](#dl_udemy)
   - [Machine Learning A-Z: AI, Python & R](#ml_udemy)
 
 </details>
+
+<a name="dl_udemy"></a>
+## [Deep Learning A-Z 2025: Neural Networks, AI](https://github.com/daluchkin/deep_learning_course)
+*March 2025*
+
+This Deep Learning course provides a structured journey through various neural network architectures, covering fundamental concepts and advanced techniques in AI. Designed by experienced Deep Learning practitioners, the course breaks down complex theories and algorithms into practical, hands-on implementations.
+
+To reinforce key concepts, this section also includes my **personal experiments**, where I tested different approaches beyond the standard coursework, gaining deeper insights through practical application. The following techniques were explored:
+
++ **Artificial Neural Networks (ANN):** Fundamentals of deep learning, forward and backward propagation, optimization techniques
++ **Convolutional Neural Networks (CNN):** Image classification, feature extraction, transfer learning
++ **Recurrent Neural Networks (RNN):** Sequence modeling, time-series forecasting, LSTMs, GRUs
++ **Self-Organizing Maps (SOM):** Unsupervised learning for feature mapping
++ **Boltzmann Machines:** Energy-based probabilistic models
++ **AutoEncoders:** Feature extraction, dimensionality reduction, and generative applications
+
+[Repository >>](https://github.com/daluchkin/deep_learning_course)
+
 
 <a name="ml_udemy"></a>
 ## [Machine Learning A-Z: AI, Python & R](https://github.com/daluchkin/machine_learning_course)
