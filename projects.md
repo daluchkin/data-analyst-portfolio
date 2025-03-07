@@ -16,6 +16,7 @@ and providing clear insights into my methodologies and findings.
 <details open>
   <summary>Table of Contents</summary>
 
+  - [Cat vs. Dog Classifier Optimization](#cat-dog-classifier)
   - [Human Facial Emotions Detection](#emotions-detector)
   - [Mushrooms Classifier](#mushroon-classifier)
   - [Medical Insurance Cost Prediction](#medical-insurance-cost)
@@ -26,6 +27,17 @@ and providing clear insights into my methodologies and findings.
   - [Tableau Public](#tableau-public)
 
 </details>
+
+---
+
+<a name="cat-dog-classifier"></a>
+## [Cat vs. Dog Classifier Optimization](https://github.com/daluchkin/data-analyst-portfolio/tree/main/08_Cat_Dog_Classifier_Optimization)
+*March 2025*\
+This project is a personal experiment aimed at improving a convolutional neural network (CNN) for classifying cats and dogs. The main goal was to explore how **Bayesian optimization** (BO) can be used to fine-tune both the architecture and hyperparameters of a CNN, leading to better performance.
+
+**Tools:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras, data visualization, model building, model evaluation, hyperparameters optimization
+
+[Repository >>](https://github.com/daluchkin/cat_dog_classifier_optimization)
 
 ---
 
